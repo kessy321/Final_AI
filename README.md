@@ -31,5 +31,5 @@ A simple and responsive Todo application built with **HTML**, **CSS**, and **van
 
 You can deploy this site to any static hosting provider (GitHub Pages, Netlify, Vercel, etc.).
 
-Deployment link (placeholder): `https://your-deployment-link-here.com`
+Deployment link (placeholder): `https://kessy321.github.io/Final_AI/`
 
